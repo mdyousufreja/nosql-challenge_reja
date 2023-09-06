@@ -59,6 +59,6 @@ Some notes to be aware of while I was exploring the dataset:
    - **Note**: This field also includes non-numeric values such as 'Pass', where 'Pass' means that the establishment passed their inspection but isn't given a number rating. We will coerce non-numeric values to nulls during the database setup before converting ratings to integers.
 - The scores for Hygiene, Structural, and ConfidenceInManagement work in reverse. This means, the higher the value, the worse the establishment is in these areas.
   
-Use the following questions to explore the database, and find the answers, so you can provide them to the magazine editors.
+Used the following questions to explore the database, and find the answers, so I can provide them to the magazine editors.
 
 Unless otherwise stated, for each question:
