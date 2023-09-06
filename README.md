@@ -46,3 +46,7 @@ The magazine editors have some requested modifications for the database before I
 
    - Used **update_many** to convert **latitude** and **longitude** to decimal numbers.
    - Used **update_many** to convert **RatingValu**e to integer numbers.
+  
+## Part 3: Exploratory Analysis ##
+
+Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
