@@ -62,3 +62,9 @@ Some notes to be aware of while I was exploring the dataset:
 Used the following questions to explore the database, and find the answers, so I can provide them to the magazine editors.
 
 Unless otherwise stated, for each question:
+
+- Used count_documents to display the number of documents contained in the result.
+
+- Displayed the first document in the results using pprint.
+
+- Converted the result to a Pandas DataFrame, printed the number of rows in the DataFrame, and displayed the first 10 rows.
